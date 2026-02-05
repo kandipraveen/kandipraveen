@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Praveen Kumar  
 
-🎓 **Computer Science (IoT) Graduate | 2025**  
+🎓 **Computer Science and Engineering (IoT) Graduate | 2025**  
 📊 **Data Analyst | AI & Machine Learning Enthusiast**  
 💡 Passionate about turning data into actionable insights  
 
