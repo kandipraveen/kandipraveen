@@ -49,6 +49,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kandipraveen&layout=compact&theme=tokyonight)
 
 ---
+
 ## 📌 Featured Projects
 
 - 📊 **Customer Churn Analysis** – Power BI dashboard with KPIs, trends, and customer retention insights  
